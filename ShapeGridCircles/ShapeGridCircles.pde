@@ -1,7 +1,9 @@
 /* 
  * ShapeGridCircles.pde
- *
+ * 
  * Pete Prodoehl <pete@2xlnetworks.com>
+ * 
+ * <http://rasterweb.net/raster/>
  * 
  */
 
