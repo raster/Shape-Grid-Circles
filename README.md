@@ -1,4 +1,4 @@
-### Shape Grid Circles
+# Shape Grid Circles
 
 This is a Processing sketch that creates a grid of circles.
 
